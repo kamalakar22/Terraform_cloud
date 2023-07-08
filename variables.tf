@@ -10,7 +10,7 @@ variable "access_key"{
 
 variable "secret_key" {
   description ="secret key"
-  type string
+  type = string
   
 }
 
