@@ -1,4 +1,3 @@
 provider "aws" {
-  # Configuration options
-  region = var.region
+  region  = var.aws_region
 }
